@@ -33,11 +33,11 @@ A comprehensive guide and associated scripts for setting up a functional Active 
 ### Project Structure
 /
 ├── scripts/
-│   └── create_ad_users.ps1          # PowerShell script to create AD users
+│   └── create_ad_users.ps1        # PowerShell script to bulk-create AD user accounts
 ├── images/
-│   ├── vm_network_diagram.png       # (Optional) Diagram of your network setup
-│   └── ad_users_screenshot.png      # (Optional) Screenshot of created users
-└── README.md
+│   ├── vm_network_diagram.png     # Visual diagram of the virtual network setup
+│   └── ad_users_screenshot.png    # Screenshot showing successfully created users in AD
+└── README.md                      # Project documentation and setup instructions
 
 
 ---
